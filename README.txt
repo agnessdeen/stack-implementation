@@ -2,7 +2,7 @@ Project Title: Expression Evaluator using Stack
 
 Language: Python 3.10+
 
-Author: Inah Christopher Leigh
+Author: agness deen kabia
 
 Description:
 This program reads infix mathematical expressions from an input file, converts each expression to postfix notation using a stack-based algorithm, evaluates the result, and writes the output to a file. It demonstrates the use of data structures (stacks), operator precedence, and file handling in Python.
@@ -43,3 +43,4 @@ References:
 - Python Documentation: https://docs.python.org/3/
 - GeeksforGeeks: Infix to Postfix Conversion
 - Stack Overflow: Stack-based expression evaluation
+
